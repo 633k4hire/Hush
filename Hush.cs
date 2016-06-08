@@ -64,27 +64,6 @@ namespace HUSH_RATCHET_DEMO
             bin.Text = "";
         }
 
-        private void Alicebtn_Click(object sender, EventArgs e)
-        {
-            //Alice prepare
-            alice.whisper.name = "alice";
-            bob.whisper.name = "bob";
-            alice.whisper.cng.plaintextBytes = Encoding.ASCII.GetBytes(ain.Text);
-            alice.whisper = alice.whisperer.whisper(alice.whisper);
-            //Alice Send
-            update();
-        }
-
-        private void bobBtn_Click(object sender, EventArgs e)
-        {
-            alice.whisper.name = "alice";
-            bob.whisper.name = "bob";
-            bob.whisper.cng.plaintextBytes = Encoding.ASCII.GetBytes(bin.Text);
-            bob.whisper = bob.whisperer.whisper(bob.whisper);
-            update();
-            
-        }
-
         private void asend_Click(object sender, EventArgs e)
         {
             alice.whisper.name = "alice";
