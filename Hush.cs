@@ -90,15 +90,12 @@ namespace HUSH_RATCHET_DEMO
                 bobpk.Text = Convert.ToBase64String(bob.whisper.publicKey);
             if (alice.whisper.publicKey != null)
                 alicepk.Text= Convert.ToBase64String(alice.whisper.publicKey);
-
             if (bob.whisper.ratchet.cng.key != null)
             {
-             
                 bratchet.Text = Convert.ToBase64String(bob.whisper.ratchet.cng.key);
             }
             if (alice.whisper.ratchet.cng.key != null)
             {
-                
                 aratchet.Text = Convert.ToBase64String(alice.whisper.ratchet.cng.key);
             }
         }
