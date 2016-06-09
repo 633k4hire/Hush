@@ -1,0 +1,5 @@
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\bin\Debug\WhisperLibrary.dll
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\bin\Debug\WhisperLibrary.pdb
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\obj\Debug\WhisperLibrary.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\obj\Debug\WhisperLibrary.dll
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\obj\Debug\WhisperLibrary.pdb

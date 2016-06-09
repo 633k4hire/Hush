@@ -1,0 +1,4 @@
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\bin\Release\WhisperLibrary.dll
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\bin\Release\WhisperLibrary.pdb
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\obj\Release\WhisperLibrary.dll
+c:\users\matt\documents\visual studio 2015\Projects\WhisperLibrary\WhisperLibrary\obj\Release\WhisperLibrary.pdb
